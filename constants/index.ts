@@ -42,40 +42,40 @@ export const IdentificationTypes = [
 
 export const Doctors = [
   {
-    image: "/assets/images/dr-green.png",
-    name: "John Green",
+    image: "/assets/images/dr-arora.png",
+    name: "Dr.M.K. Arora(Pain Medicine)",
   },
   {
-    image: "/assets/images/dr-cameron.png",
-    name: "Leila Cameron",
+    image: "/assets/images/dr-saxena.png",
+    name: "Dr.Renu Saxena(Haematology)",
   },
   {
-    image: "/assets/images/dr-livingston.png",
-    name: "David Livingston",
+    image: "/assets/images/dr-kharbanda.png",
+    name: "Dr.O.P. Kharbanda(Dental)",
   },
   {
-    image: "/assets/images/dr-peter.png",
-    name: "Evan Peter",
+    image: "/assets/images/dr-baidya.png",
+    name: " Dr.Kalim Baidya(Anasthesia)",
   },
   {
-    image: "/assets/images/dr-powell.png",
-    name: "Jane Powell",
+    image: "/assets/images/dr-tara.png",
+    name: "Tara Shukla(Head Nurse)",
   },
   {
-    image: "/assets/images/dr-remirez.png",
-    name: "Alex Ramirez",
+    image: "/assets/images/dr-bahl.png",
+    name: "Dr.V.K Bahl(Cardiology)",
   },
   {
-    image: "/assets/images/dr-lee.png",
-    name: "Jasmine Lee",
+    image: "/assets/images/dr-kiran.png",
+    name: "Dr.Usha Kiran(Cardiac Anaesthesia)",
   },
   {
-    image: "/assets/images/dr-cruz.png",
-    name: "Alyana Cruz",
+    image: "/assets/images/dr-roy.png",
+    name: "Dr.Tara shankar roy(Anatomy)",
   },
   {
     image: "/assets/images/dr-sharma.png",
-    name: "Hardik Sharma",
+    name: "Dr.Hardik Sharma(Dermatology)",
   },
 ];
 

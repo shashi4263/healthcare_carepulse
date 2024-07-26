@@ -119,7 +119,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                         fieldType={FormFieldType.INPUT}
                         control={form.control}
                         name="name"
-                        placeholder="John Doe"
+                        placeholder="Your Name"
                         iconSrc="/assets/icons/user.svg"
                         iconAlt="user"
                     />
@@ -131,7 +131,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="email"
                             label="Email address"
-                            placeholder="johndoe@gmail.com"
+                            placeholder="abc@gmail.com"
                             iconSrc="/assets/icons/email.svg"
                             iconAlt="email"
                         />
@@ -141,7 +141,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="phone"
                             label="Phone Number"
-                            placeholder="(555) 123-4567"
+                            placeholder="0123456789"
                         />
                     </div>
 
@@ -187,7 +187,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="address"
                             label="Address"
-                            placeholder="14 street, New york, NY - 5101"
+                            placeholder="Address"
                         />
 
                         <CustomFormField
@@ -195,7 +195,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="occupation"
                             label="Occupation"
-                            placeholder=" Software Engineer"
+                            placeholder="Your Job"
                         />
                     </div>
 
@@ -214,7 +214,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="emergencyContactNumber"
                             label="Emergency contact number"
-                            placeholder="(555) 123-4567"
+                            placeholder="0123456789"
                         />
                     </div>
                 </section>
@@ -255,7 +255,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="insuranceProvider"
                             label="Insurance provider"
-                            placeholder="BlueCross BlueShield"
+                            placeholder=" Lippo Insurance Health Protection"
                         />
 
                         <CustomFormField
@@ -293,7 +293,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                             control={form.control}
                             name="familyMedicalHistory"
                             label=" Family medical history (if relevant)"
-                            placeholder="Mother had brain cancer, Father has hypertension"
+                            placeholder="Family Medical History"
                         />
 
                         <CustomFormField
